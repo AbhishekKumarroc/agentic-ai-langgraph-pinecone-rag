@@ -1,0 +1,11 @@
+streamlit>=1.40
+langchain-core>=0.3
+langchain-google-genai>=2.0
+langchain-pinecone>=0.2
+langchain-text-splitters>=0.3
+langchain-community>=0.3
+langgraph>=0.2
+pinecone>=5.0
+google-genai>=1.0
+pypdf>=5.0
+python-dotenv>=1.0
